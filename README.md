@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Young 👋
 
-<!--
-**sy501735-max/sy501735-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer building AI-powered style and personalization tools.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* StyleMatch — AI-based personal color & fashion matching web app
+* UI/UX experiments for creator-focused AI tools
+* Open-source frontend utilities and automation workflows
+
+## Tech Stack
+
+* HTML / CSS / JavaScript
+* Netlify
+* AI-assisted workflows
+* Responsive UI design
+
+## Focus Areas
+
+* AI styling tools
+* Personal color analysis
+* Creator productivity
+* Web-based automation
+
+## Links
+
+* Portfolio / Demo: https://eloquent-valkyrie-360c99.netlify.app
+* GitHub: https://github.com/sy501735-max
