@@ -4,7 +4,7 @@ Frontend developer building AI-powered style and personalization tools.
 
 ## Current Projects
 
-* StyleMatch — AI-based personal color & fashion matching web app
+* ToneOnMatch — AI-based personal color & fashion matching web app
 * UI/UX experiments for creator-focused AI tools
 * Open-source frontend utilities and automation workflows
 
