@@ -1,28 +1,33 @@
-# Hi, I'm Young 👋
+# Hi, I'm Max 👋
 
-Frontend developer building AI-powered style and personalization tools.
+AI automation builder focused on:
+
+* GHL workflows
+* AI content systems
+* Social media automation
+* Claude/OpenAI integrations
+* Creator productivity tools
 
 ## Current Projects
 
-* ToneOnMatch — AI-based personal color & fashion matching web app
-* UI/UX experiments for creator-focused AI tools
-* Open-source frontend utilities and automation workflows
+* AI Social Publisher
+* GHL Workflow Library
+* Personal Color AI Toolkit
+* Creator AI Automation Stack
 
 ## Tech Stack
 
 * HTML / CSS / JavaScript
+* Claude API
+* OpenAI API
+* GHL
 * Netlify
 * AI-assisted workflows
-* Responsive UI design
 
-## Focus Areas
+## Interests
 
-* AI styling tools
-* Personal color analysis
-* Creator productivity
-* Web-based automation
+AI agents · workflow automation · creator tools · open-source productivity systems
 
-## Links
+## Goals
 
-* Portfolio / Demo: https://eloquent-valkyrie-360c99.netlify.app
-* GitHub: https://github.com/sy501735-max
+Building practical AI automation tools and reusable workflows for creators, marketers, and small businesses.
