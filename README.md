@@ -1,6 +1,8 @@
 # Hi, I'm Max 👋
 
-AI automation builder focused on:
+Building AI-powered creator tools, automation workflows, and personalization platforms.
+
+## Focus Areas
 
 * GHL workflows
 * AI content systems
@@ -31,3 +33,11 @@ AI agents · workflow automation · creator tools · open-source productivity sy
 ## Goals
 
 Building practical AI automation tools and reusable workflows for creators, marketers, and small businesses.
+
+## Live Projects
+
+### ToneOnMatch
+
+AI-powered personal color & fashion matching platform
+
+https://toneonmatch.com/
