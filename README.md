@@ -1,43 +1,74 @@
+![Open Source](https://img.shields.io/badge/Open%20Source-Projects-blue)
+![OSS Maintainer](https://img.shields.io/badge/Role-OSS%20Maintainer-success)
+![AI Automation](https://img.shields.io/badge/Focus-AI%20Automation-orange)
+![Claude API](https://img.shields.io/badge/Powered%20by-Claude-red)
+
 # Hi, I'm Max 👋
 
-Building AI-powered creator tools, automation workflows, and personalization platforms.
+Open-source AI automation builder focused on creators, marketers, and small businesses.
+
+I develop practical AI-powered tools that automate customer engagement, content creation, marketing operations, and business workflows. My goal is to make advanced automation accessible to people without technical backgrounds.
 
 ## Focus Areas
 
-* GHL workflows
-* AI content systems
-* Social media automation
-* Claude/OpenAI integrations
-* Creator productivity tools
+* AI Workflow Automation
+* CRM & Customer Retention Systems
+* Social Media Automation
+* Claude & OpenAI Integrations
+* Marketing Automation
+* Creator Productivity Tools
+* Reusable Automation Frameworks
 
-## Current Projects
+## Open Source Projects
 
-* AI Social Publisher
-* GHL Workflow Library
-* Personal Color AI Toolkit
-* Creator AI Automation Stack
+### Salon Auto Recall CRM
+
+Automated customer re-engagement system for beauty salons and service businesses.
+
+Helps businesses identify inactive customers and automatically launch personalized recall campaigns to increase repeat visits.
+
+### Instagram Comment Automation
+
+AI-powered Instagram comment classification and personalized response generation.
+
+Designed to help creators and small businesses engage with audiences more efficiently while maintaining authentic interactions.
+
+### Product Page Generator
+
+Automatically generates HTML product pages, Instagram captions, and advertising copy from structured product information.
+
+Reduces content production time and helps businesses launch marketing campaigns faster.
+
+## Commercial Project
+
+### ToneOnMatch
+
+AI-powered personal color and fashion matching platform.
+
+Built as a consumer-facing application exploring personalized AI recommendations for fashion, styling, and self-expression.
+
+Operating ToneOnMatch provides real-world insights into customer engagement, personalization workflows, and AI-assisted user experiences, which directly inform the design and improvement of my open-source automation tools.
+
+Website:
+https://www.toneonmatch.com
 
 ## Tech Stack
 
 * HTML / CSS / JavaScript
 * Claude API
 * OpenAI API
-* GHL
+* GoHighLevel (GHL)
 * Netlify
-* AI-assisted workflows
+* Workflow Automation Systems
+
+## Open Source Commitment
+
+Actively maintaining and improving AI-powered automation tools, documentation, and reusable workflow systems for creators, marketers, and small businesses.
 
 ## Interests
 
-AI agents · workflow automation · creator tools · open-source productivity systems
+AI Agents · Workflow Automation · Creator Tools · Marketing Systems · Customer Retention · Open Source Productivity Software
 
-## Goals
+## Mission
 
-Building practical AI automation tools and reusable workflows for creators, marketers, and small businesses.
-
-## Live Projects
-
-### ToneOnMatch
-
-AI-powered personal color & fashion matching platform
-
-https://toneonmatch.com/
+Making AI automation accessible to creators, marketers, and small businesses through practical open-source tools and reusable workflow systems.
